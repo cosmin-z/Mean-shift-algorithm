@@ -13,6 +13,8 @@ In this folder you'll find:
 
 ## Abstract
 
+Mean-shift Clustering is an unsupervised learning algorithm based on clus- ters using sliding windows and centroids. The idea is to start around a point and apply a sphere(window) and “shifting to the mean” in an iterative way around the neighbours in order to find the centroid that presents that pixel. From this we can deduce that the number of clusters is not pre-determined but is decided during the calculation and depends on the size of this sphere.
+
 
 
 ## Dataset
