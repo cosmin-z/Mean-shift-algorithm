@@ -18,13 +18,19 @@ Mean-shift Clustering is an unsupervised learning algorithm based on clusters us
 
 ## An interesting result
 This picture was taken by me (a landscape in Maastricht, a city that I love)
+
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="width: 100px;">
-    Before clustering => ![cow](https://github.com/cosmin-z/Mean-shift-algorithm/assets/61350549/7c1a058c-f675-4bcf-a897-f927962c3e8d)
+  <div style="width: 100px; text-align: center;">
+    Before clustering
+    ![cow](https://github.com/cosmin-z/Mean-shift-algorithm/blob/main/assets/61350549/8c73f832-27ef-4d7a-bebd-1859b1499fa6)
   </div>
-  <div style="width: 100px;">
-    After clustering => ![cowresized_image jpg5d_segmented_image_c4_r42](https://github.com/cosmin-z/Mean-shift-algorithm/assets/61350549/8aec28bf-90a4-4603-8f2f-a0388edf1396)
+  <div style="width: 100px; text-align: center;">
+    After clustering
+    ![cowresized_image jpg5d_segmented_image_c4_r42](https://github.com/cosmin-z/Mean-shift-algorithm/blob/main/assets/61350549/eb761ec3-3029-43c3-8904-dbceee819b76)
   </div>
 </div>
+
+
+
 
 
