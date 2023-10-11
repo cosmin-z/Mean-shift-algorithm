@@ -1,4 +1,4 @@
-Enjoy reading!
+
 
 # Mean shift algorithm - Computer vision
 
@@ -6,7 +6,7 @@ This Repository refers to the project of the course [Computer Vision](https://cu
 
 In this folder you'll find:
 
-*  the report
+*  the report (Enjoy reading!)
 *   meanshift_not_optimazed notebook where you can find the implementation of the points 1 and 2
 *   Meanshift_optimizaed notebook where you can find the rest of the assignment
 *   image_plots folder > here you can find the main images used for the report, and in each subfolder all attempts with the different r and c
@@ -20,16 +20,12 @@ Mean-shift Clustering is an unsupervised learning algorithm based on clusters us
 This picture was taken by me (a landscape in Maastricht, a city that I love)
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="width: 100px; text-align: center;">
-    Before clustering
-    ![cow](https://github.com/cosmin-z/Mean-shift-algorithm/blob/main/assets/61350549/8c73f832-27ef-4d7a-bebd-1859b1499fa6)
-  </div>
-  <div style="width: 100px; text-align: center;">
-    After clustering
-    ![cowresized_image jpg5d_segmented_image_c4_r42](https://github.com/cosmin-z/Mean-shift-algorithm/blob/main/assets/61350549/eb761ec3-3029-43c3-8904-dbceee819b76)
+      <img width="300px" height:"400px" src="https://raw.githubusercontent.com/cosmin-z/Mean-shift-algorithm/main/image_plots/cow.jpeg" alt="cowresized_image jpg5d_segmented_image_c4_r42">
+    <img style="margin-left:12px;" width="500px" height:"600px" src="https://raw.githubusercontent.com/cosmin-z/Mean-shift-algorithm/main/image_plots/other_images/cowresized_image.jpg5d_segmented_image_c4_r42.png" alt="cow">
   </div>
 </div>
-
+<br>
+In this case is interesting that even if we increase the radius of the cluster the cow is still present and also there is still an understandable division between the road and the pavement.
 
 
 
