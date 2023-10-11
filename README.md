@@ -23,7 +23,9 @@ This picture was taken by me (a landscape in Maastricht, a city that I love)
     Before clustering => ![cow](https://github.com/cosmin-z/Mean-shift-algorithm/assets/61350549/7c1a058c-f675-4bcf-a897-f927962c3e8d)
   </div>
   <div  style="width: 100px;" alt="Image 2">
+    
     After clustering => ![cowresized_image jpg5d_segmented_image_c4_r42](https://github.com/cosmin-z/Mean-shift-algorithm/assets/61350549/8aec28bf-90a4-4603-8f2f-a0388edf1396)
+    
   </div>
 </div>
 
